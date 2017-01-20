@@ -1,0 +1,73 @@
+{
+    "rs":"ok",
+    "data":[
+        {
+            "name":"HTML/CSS",
+            "number": "87%"
+        },
+        {
+            "name":"JAVASCRIPT",
+            "number": "80%"
+        },
+        {
+            "name":"JQUERY",
+            "number": "80%"
+        },
+        {
+            "name":"ACTIOSCRIPT3",
+            "number": "65%"
+        },
+        {
+            "name":"RESPONSIVE WEB DESIGN (RWD)",
+            "number": "90%"
+        },
+        {
+            "name":"HTML5/CSS3",
+            "number": "80%"
+        },
+        {
+            "name":"SASS/SCSS/COMPASS/STYLUS",
+            "number": "80%"
+        },
+        {
+            "name":"CREATEJS",
+            "number": "85%"
+        },
+        {
+            "name":"NODEJS",
+            "number": "50%"
+        },
+        {
+            "name":"VUEJS",
+            "number": "75%"
+        },
+        {
+            "name":"REACTJS",
+            "number": "30%"
+        },
+        {
+            "name":"ELECTRONJS",
+            "number": "25%"
+        },
+        {
+            "name":"GULP/WEBPACK",
+            "number": "65%"
+        },
+        {
+            "name":"PHP/MYSQL",
+            "number": "40%"
+        },
+        {
+            "name":"UNITY",
+            "number": "70%"
+        },
+        {
+            "name":"PHOTOSHOP/ILLUSTRATOR",
+            "number": "80%"
+        },
+        {
+            "name":"SEO",
+            "number": "70%"
+        }
+    ]
+}
