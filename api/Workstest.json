@@ -1,0 +1,195 @@
+{
+    "rs":"ok",
+    "data":[
+        {
+            "Group":["WEB"],
+            "Imgurl": "/images/works/tvbs.jpg",
+            "title":"TVBS 官方網站",
+            "type":"http",
+            "url":"http://www.tvbs.com.tw/index.html"
+        },
+        {
+            "Group":["WEB","GAME"],
+            "Imgurl": "/images/works/Flappybird.jpg",
+            "title":"HTML5遊戲 Demo Flappybird ",
+            "type":"http",
+            "url":"https://mikecheng1208.github.io/FlappybirdCreateJS/"
+        },
+        {
+            "Group":["WEB"],
+            "Imgurl": "/images/works/toyotaSienta.jpg",
+            "title":"TOYOTA SIENTA駕到請注意！",
+            "type":"http",
+            "url":"http://www.toyota.com.tw/event/201609_sienta_teaser/"
+        },
+        {
+            "Group":["WEB"],
+            "Imgurl": "/images/works/benefique.jpg",
+            "title":"碧麗妃 │ 心の溫度 新の幸福",
+            "type":"http",
+            "url":"http://benefique-event.shiseido.com.tw/#/"
+        },
+        {
+            "Group":["WEB"],
+            "Imgurl": "/images/works/shiseido.jpg",
+            "title":"【百優女人】美肌好禮X期間限定優惠",
+            "type":"http",
+            "url":"http://bopa.shiseido.com.tw/#!/"
+        },
+        {
+            "Group":["WEB"],
+            "Imgurl": "/images/works/aoc.jpg",
+            "title":"《軒尼詩干邑品鑑學院》軒尼詩",
+            "type":"http",
+            "url":"http://www.hennessy-tw.com/2016artofcognac/"
+        },
+        {
+            "Group":["WEB"],
+            "Imgurl": "/images/works/html5_demo_1.jpg",
+            "title":"HTML5 音樂頻譜效果",
+            "type":"http",
+            "url":"https://mikecheng1208.github.io/Fly-html5-createjs/demo4.html"
+        },
+        {
+            "Group":["WEB"],
+            "Imgurl": "/images/works/html5_demo_2.jpg",
+            "title":"HTML5 酷炫人物展示效果",
+            "type":"http",
+            "url":"https://mikecheng1208.github.io/Fly-html5-createjs/demo8/index.html"
+        },
+        {
+            "Group":["WEB"],
+            "Imgurl": "/images/works/html5_demo_3.jpg",
+            "title":"HTML5 酷炫粒子噴發效果",
+            "type":"http",
+            "url":"https://mikecheng1208.github.io/Fly-html5-createjs/demo2.html"
+        },
+        {
+            "Group":["WEB"],
+            "Imgurl": "/images/works/transportation.jpg",
+            "title":"檔案管理局 世紀交通線上展網頁",
+            "type":"http",
+            "url":"http://atc.archives.gov.tw/transportation/"
+        },
+        {
+            "Group":["WEB","GAME"],
+            "Imgurl": "/images/works/JohnWick.jpg",
+            "title":"電影 捍衛任務 活動網頁",
+            "type":"http",
+            "url":"https://mikecheng1208.github.io/johnwick/"
+        },
+        {
+            "Group":["BRIEFING"],
+            "Imgurl": "/images/works/mobile.jpg",
+            "title":"Mobile 科技魔法 簡報",
+            "type":"briefing",
+            "url":"https://speakerdeck.com/mike1208/mobile-ke-ji-mo-fa"
+        },
+        {
+            "Group":["WEB"],
+            "Imgurl": "/images/works/BING.jpg",
+            "title":"BING Systems Ltd 官方網站",
+            "type":"http",
+            "url":"http://www.bingsys.com/"
+        },
+        {
+            "Group":["WEB"],
+            "Imgurl": "/images/works/alphafinity.jpg",
+            "title":"alphafinity 官方網站",
+            "type":"http",
+            "url":"http://alphafinity.azurewebsites.net/"
+        },
+        {
+            "Group":["WEB"],
+            "Imgurl": "/images/works/superABC.jpg",
+            "title":"SuperABC 互動美語官網",
+            "type":"http",
+            "url":"http://www.superabc.com.tw/"
+        },
+        {
+            "Group":["WEB"],
+            "Imgurl": "/images/works/yixinju.jpg",
+            "title":"花蓮民宿 一心居民宿官網",
+            "type":"http",
+            "url":"http://www.yixinju.url.tw/"
+        },
+        {
+            "Group":["BRIEFING"],
+            "Imgurl": "/images/works/Project.jpg",
+            "title":"專案管理以及經驗分享 簡報",
+            "type":"briefing",
+            "url":"http://www.slideshare.net/ssuserebb1b2/ss-46046997"
+        },
+        {
+            "Group":["YOUTUBE"],
+            "Imgurl": "/images/works/flashAmin.jpg",
+            "title":"達新牌吹風機形象動畫",
+            "type":"youtube",
+            "url":"https://www.youtube.com/watch?v=FRoeFNG6cBk"
+        },
+        {
+            "Group":["YOUTUBE","INTERACTIVE","GAME"],
+            "Imgurl": "/images/works/VRa350.jpg",
+            "title":"VR 華航A350豪華商務艙體驗之旅",
+            "type":"youtube",
+            "url":"https://www.youtube.com/watch?v=ZcBuYgXXwSc&t=9s"
+        },
+        {
+            "Group":["BRIEFING"],
+            "Imgurl": "/images/works/meCreatejs.jpg",
+            "title":"CreateJS與Flash 簡報",
+            "type":"briefing",
+            "url":"https://speakerdeck.com/mike1208/createjsyu-flash"
+        },
+        {
+            "Group":["BRIEFING"],
+            "Imgurl": "/images/works/threejs.jpg",
+            "title":"Threejs 簡報",
+            "type":"briefing",
+            "url":"https://speakerdeck.com/mike1208/threejs"
+        },
+        {
+            "Group":["BRIEFING"],
+            "Imgurl": "/images/works/sass.jpg",
+            "title":"Sass&Compass 簡報",
+            "type":"briefing",
+            "url":"http://www.slideshare.net/ssuserebb1b2/sass-ppt"
+        },
+        {
+            "Group":["WEB","GAME","INTERACTIVE","YOUTUBE"],
+            "Imgurl": "/images/works/Flappybird2.jpg",
+            "title":"Nodejs 連線互動 Flappybird ",
+            "type":"http",
+            "url":"https://www.youtube.com/watch?v=HYamL592uvo"
+        },
+        {
+            "Group":["YOUTUBE","INTERACTIVE","GAME"],
+            "Imgurl": "/images/works/sharkVR.jpg",
+            "title":"VR 秦陵尋雁記",
+            "type":"youtube",
+            "url":"https://www.youtube.com/watch?v=VmpC7VFChq0"
+        },
+        {
+            "Group":["BRIEFING"],
+            "Imgurl": "/images/works/vrbook.jpg",
+            "title":"VR 開發者黑客松經驗分享談 簡報",
+            "type":"briefing",
+            "url":"https://speakerdeck.com/mike1208/vrkai-fa-zhe-hei-ke-song-da-sai-jing-yan-fen-xiang-tan"
+        },
+        {
+            "Group":["DESIGN"],
+            "Imgurl": "/images/works/bobo.jpg",
+            "title":"人物特色海報",
+            "type":"design",
+            "url":""
+        },
+        {
+            "Group":["DESIGN"],
+            "Imgurl": "/images/works/girl.jpg",
+            "title":"人物特色海報",
+            "type":"design",
+            "url":""
+        }
+    ]
+}
+
